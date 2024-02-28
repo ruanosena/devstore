@@ -1,5 +1,6 @@
-[https://devstore-api-kohl.vercel.app/](https://devstore-api-kohl.vercel.app/)
-
+API ENV VARS
+NEXT_PUBLIC_API_BASE_URL=[https://devstore-api-kohl.vercel.app/](https://devstore-api-kohl.vercel.app/)
+APP_URL="http://localhost:3000"
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
